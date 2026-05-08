@@ -1,0 +1,16 @@
+Number of unsuccessful trajectories: 2187
+RMSE + DTWD + FD: 478.5329611853163
+RMSE: 0.349854343455468
+DTWD: 477.1666 +/- 149.3092
+FD: 1.0165380565971986
+Iteration number: 3000
+
+
+ ###### GPU information ###### 
+
+Using device: cuda
+
+NVIDIA GeForce RTX 3090
+Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.2 GB

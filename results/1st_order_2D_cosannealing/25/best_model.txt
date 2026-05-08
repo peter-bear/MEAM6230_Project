@@ -1,0 +1,16 @@
+Number of unsuccessful trajectories: 0
+RMSE + DTWD + FD: 1143.6912221570763
+RMSE: 2.6883799556035015
+DTWD: 1137.6915 +/- 484.1453
+FD: 3.311303375438515
+Iteration number: 10000
+
+
+ ###### GPU information ###### 
+
+Using device: cuda
+
+NVIDIA GeForce RTX 3070 Laptop GPU
+Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.1 GB
